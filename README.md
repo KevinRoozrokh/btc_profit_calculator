@@ -1,6 +1,12 @@
 # bitcoin-profit-calculator
 A simple bitcoin mining calculator
 ---
+How to:
+
+
+
+
+---
 Coded by `Kevin Roozrokh`.
 
 LinkedIn: https://www.linkedin.com/in/kevin-roozrokh/
